@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EF921C42-1BA9-D595-4865-C1F6FAB201F6}") = "Mooc Hero 2 - SP", "Assembly-CSharp-firstpass.csproj", "{58830E4A-B12D-BB79-ABA7-E9431A201123}"
+EndProject
+Project("{EF921C42-1BA9-D595-4865-C1F6FAB201F6}") = "Mooc Hero 2 - SP", "Assembly-CSharp.csproj", "{BFD2F4C2-075F-1CCE-FCF0-F798D64792C8}"
+EndProject
+Project("{EF921C42-1BA9-D595-4865-C1F6FAB201F6}") = "Mooc Hero 2 - SP", "Assembly-CSharp-Editor.csproj", "{21608A5F-2D01-DAA9-263F-7561060AA758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58830E4A-B12D-BB79-ABA7-E9431A201123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58830E4A-B12D-BB79-ABA7-E9431A201123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58830E4A-B12D-BB79-ABA7-E9431A201123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58830E4A-B12D-BB79-ABA7-E9431A201123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD2F4C2-075F-1CCE-FCF0-F798D64792C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD2F4C2-075F-1CCE-FCF0-F798D64792C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD2F4C2-075F-1CCE-FCF0-F798D64792C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD2F4C2-075F-1CCE-FCF0-F798D64792C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21608A5F-2D01-DAA9-263F-7561060AA758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21608A5F-2D01-DAA9-263F-7561060AA758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21608A5F-2D01-DAA9-263F-7561060AA758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21608A5F-2D01-DAA9-263F-7561060AA758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
